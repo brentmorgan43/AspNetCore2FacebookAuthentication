@@ -1,0 +1,24 @@
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.deps.json
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.runtimeconfig.json
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.runtimeconfig.dev.json
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.dll
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.csprojResolveAssemblyReference.cache
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.AssemblyInfoInputs.cache
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.AssemblyInfo.cs
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.pdb
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.dll
+C:\Users\morganb\Documents\Visual Studio 2017\Projects\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.pdb
+C:\Source\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.deps.json
+C:\Source\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.runtimeconfig.json
+C:\Source\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.runtimeconfig.dev.json
+C:\Source\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.dll
+C:\Source\FacebookAuthentication\FacebookAuthentication\bin\Debug\netcoreapp2.0\FacebookAuthentication.pdb
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.csprojResolveAssemblyReference.cache
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.csproj.CoreCompileInputs.cache
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.AssemblyInfoInputs.cache
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.AssemblyInfo.cs
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.dll
+C:\Source\FacebookAuthentication\FacebookAuthentication\obj\Debug\netcoreapp2.0\FacebookAuthentication.pdb
